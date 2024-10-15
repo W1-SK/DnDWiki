@@ -1,4 +1,3 @@
-a chaotic good, male mountain dwarf [scout](https://5e.tools/bestiary.html#scout_mm)
 
 Rasa: Horský trpaslík
 Pohlaví: Muž

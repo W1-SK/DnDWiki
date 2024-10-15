@@ -1,6 +1,3 @@
-https://criticalrole.miraheze.org/wiki/Morgo_Delwur
-(neutrálně dobrá, horská trpaslice-Medvědodlak)
-
 
 Rasa: Horský trpaslík
 Pohlaví: Žena

@@ -1,6 +1,3 @@
-[Elloway Tenvidas](https://criticalrole.miraheze.org/wiki/Elloway_Tenvidas)
-(zákonně neutrální, nebinární, vznešený elf mág)
-
 
 Rasa: Vznešený elf
 Pohlaví: Nebinární

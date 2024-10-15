@@ -1,7 +1,7 @@
-Rasa: Půlelf
+Rasa: Člověk
 Pohlaví: Muž
-Věk: 60let
-Přesvědčení: ChN
+Věk: 
+Přesvědčení: NN
 Stat Block: [Commoner](https://5e.tools/bestiary.html#commoner_mm)
 
-![[Doran_Fenwick.jpeg|500]]
+![[Drow_HumanForm.jpeg|400]]

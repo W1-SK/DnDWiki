@@ -1,4 +1,4 @@
-both tiefling noncombatants
+
 Rasa: Tiefling
 Pohlaví: Žena
 Věk: 12 let

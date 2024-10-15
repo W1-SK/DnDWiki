@@ -1,4 +1,3 @@
-both tiefling noncombatants
 
 Rasa: Tiefling
 Pohlaví: Žena

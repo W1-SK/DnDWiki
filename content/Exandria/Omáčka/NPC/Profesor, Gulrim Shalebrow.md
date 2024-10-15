@@ -1,8 +1,3 @@
-Zákonně dobrý, mužský trpaslík
-
-
-
-
 Rasa: Horský trpaslík
 Pohlaví: Muž
 Věk: 269 let
