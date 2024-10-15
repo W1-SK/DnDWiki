@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Vítám tě ve Wildemountu
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Toto je wiki ohledně kampaně, kterou hrajeme.
