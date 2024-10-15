@@ -1,5 +1,5 @@
 ---
-title: Vítám tě ve Wildemountu
+title: Máťovo Wiki
 ---
 
 Toto je wiki ohledně kampaně, kterou hrajeme.
