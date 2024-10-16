@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/W1-SK/DnDWiki/tree/v4",
+      Video : "https://www.youtube.com/watch?v=oavMtUWDBTM",
     },
   }),
 }
