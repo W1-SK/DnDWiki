@@ -3,7 +3,6 @@ tags:
   - Kniha
 ---
 Autor : Scanlan Shorthalt
-[kniha](https://docs.google.com/document/d/1SdkRxErT9AjF2Rt8P3XLSbi75yixiTibKy0TAEWYOp8/edit)
 
 ## Úvod
 Představování mé osoby je zbytečné, protože... Já, slavný a švihácký Scanlan Shorthalt, zkušený dobrodruh, revolucionář a nyní milující manžel, jsem známý, obávaný, MILOVANÝ a to všude od Whitestonu až po Uthodurn. 
