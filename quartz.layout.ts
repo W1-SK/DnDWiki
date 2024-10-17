@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      Knihy : "https://github.com/W1-SK/DnDWiki/tree/v4/content/Assets/Books", 
       Video : "https://www.youtube.com/watch?v=oavMtUWDBTM",
     },
   }),
@@ -31,7 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.DesktopOnly(Component.Graph()),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.Backlinks()),
+    
     Component.MobileOnly(Component.Explorer()),  
   ],
 }
