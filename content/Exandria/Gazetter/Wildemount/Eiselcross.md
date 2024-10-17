@@ -41,6 +41,7 @@ Organizace: Řád Cerberus řídí všechno v táboře, ale mezi řadami dobrodr
 
 ### Místo havárie Aeoru
 ***Aoer Crash Site***
+
 *Zatímco kusy Aeoru byly roztroušeny po celém Eiselcrossu a ledových hlubinách, hlavní havárie města vytvořila v srdci Forenu kráter o průměru tří mil. V průběhu staletí kráter pokryla ledová vrstva. Základy ruin prosvítají skrze mrazivý povrch, vytvářející tunely, jámy a propasti. Pohřbené ruiny jsou naplněny nebezpečnými, nádhernými výtvory a časovými kapsami lidí, kteří zůstali uvězněni v čase.*
 
 #### Bubliny zamrzlé v času 

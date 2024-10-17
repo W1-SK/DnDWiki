@@ -4,10 +4,15 @@
 *nositelka změny*
 ![[Symbol of Avandra.png|300]]
 **Přesvědčení:** Chaotické dobro
+
 **Kategorie:** Prvotní božstva
+
 **Domény:** Příroda, Triky
+
 **Panteon:** Exandria
+
 **Provincie:** Změna, svoboda, štěstí
+
 **Symbol:** Profil ženy vyražený na zlaté minci nebo přívěsku
 
 ## Bahamut
