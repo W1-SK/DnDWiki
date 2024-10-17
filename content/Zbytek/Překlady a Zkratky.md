@@ -15,4 +15,5 @@ Transmutation = Transmutace<br>
 
 
 ### Zkratky
-Big bad = BB
+BB = Big Bad
+DM = Dungeon Master

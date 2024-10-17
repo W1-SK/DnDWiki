@@ -64,6 +64,7 @@ Lidé Aeoru nevytvářeli pouze zbraně, které by mohly zabíjet bohy. Vytvář
 Míli západně od kráteru, který definuje místo havárie, se nachází skalní kopec, na kterém taje jakýkoli sníh nebo led, jenž na něm spočine. Na severní straně kopce se nachází vchod do jeskyně, který vede do domovské místnosti o šířce 60 stop s klenutým stropem. Uprostřed této jeskyně stojí patnáct stop vysoký obelisk vyrobený z tmavého, reflexního kovu, který připomíná uhlazený obsidián. Kámen tiše vyzařuje s aurou vymítání z nějakého záhadného očarovní. Cestovatelé, kteří dokončí důkladný odpočinek v blízkosti kamene, jsou navštíveni strašnými sny o podivných, cizokrajných místech a vizích, které jsou obtížné pochopit.
 ### Pevnost Mrtvého Jarla
 ***Fortress of the Dead Jarl***
+*Zvenčí působí Pevnost mrtvého Jarla jako obrovský pohádkový zámek, celý z ledu. Hrůzy ukryté uvnitř tohoto místa však vyprávějí jiný příběh. Vůdce mrazivých obrů, Jarl Conessa Berg, byl posedlý sbíráním předmětů z Aeoru. Před dvěma staletími se mu však jeden z těchto předmětů stal osudným, když proměnil Conessa a všechny ostatní obry ve svém hradě v nemrtvé zombie. Tito bytosti jsou uvězněny uvnitř pevnosti spolu s pokladem aeorských artefaktů.*
 
 ### Mutalos
 
