@@ -1,7 +1,11 @@
 Rasa: Horský trpaslík
+
 Pohlaví: Muž
+
 Věk: 269 let
+
 Přesvědčení: ZaD
+
 Stat Block: [Veteran](https://5e.tools/bestiary.html#veteran_mm)
 
 

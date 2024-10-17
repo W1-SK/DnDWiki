@@ -4,9 +4,13 @@ tags:
 ---
 ![[Elro Aldataur.jpeg|300]] 
 Rasa:Lesní elf 
+
 Pohlaví: Muž
+
 Věk: 400 let
+
 Přesvědčení: NaD
+
 Stat Block: [Veteran](https://5e.tools/bestiary.html#veteran_mm)
 
 
