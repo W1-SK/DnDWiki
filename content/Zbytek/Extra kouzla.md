@@ -22,6 +22,6 @@ Zeď je předmět vyrobený z hlíny a dá se poškodit, či dokonce prolomit. K
 
 Soustředíš-li se na toto kouzlo po celou dobu jeho trvání, zeď se může stát trvalou nebo se rozpadá (dle tvé volby). Pokud se soustředění jakkoliv přeruší, zeď ihned spadne a tvorové v okolí 2 sáhů si hází záchranný hod na Obratnost. Pokud neuspějí, hlína je zavalí a tvorové jsou zadrženi. Na začátku jejich tahu si hází na akrobacii nebo atletiku, při úspěchu se z hlíny dostávají.
 
-															-Eliška Mlezivová
+> 															-Eliška Mlezivová
 
 
