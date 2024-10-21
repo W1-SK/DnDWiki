@@ -1,9 +1,14 @@
 # Hliněná zeď
 *Zaklínání 5. úrovně*
+
 **Vyvolání:** 1 akce
+
 **Dosah:** 24 sáhů
+
 **Složky:** V, P, S (Stejný objem hlíny jako bude ve zdi)
+
 **Trvání:** Soustředění, až 10 minut
+
 **Povolání:** Čaroděj, Druid, Kouzelník
 
 V tebou zvoleném bodě v dosahu náhle vyvstane nemagická hliněná zeď. Zeď je 1-12 sáhů dlouhá, 4 sáhy vysoká a 1 stopu tlustá.
@@ -16,6 +21,6 @@ Vytvoříš-li překlenutí větší než 4 sáhy na délku, musíš zmenšit ve
 Zeď je předmět vyrobený z hlíny a dá se poškodit, či dokonce prolomit. Každý panel má OČ 12 a 180 životů. Snížení životů zdi na 0 ho zničí a může způsobit, že se zeď zhroutí dle úvahy DM.
 
 Soustředíš-li se na toto kouzlo po celou dobu jeho trvání, zeď se může stát trvalou nebo se rozpadá (dle tvé volby). Pokud se soustředění jakkoliv přeruší, zeď ihned spadne a tvorové v okolí 2 sáhů si hází záchranný hod na Obratnost. Pokud neuspějí, hlína je zavalí a tvorové jsou zadrženi. Na začátku jejich tahu si hází na akrobacii nebo atletiku, při úspěchu se z hlíny dostávají.
-
+																-Eliška Mlezivová
 
 
