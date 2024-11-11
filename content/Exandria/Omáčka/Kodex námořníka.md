@@ -1,6 +1,6 @@
 1. **Buď věrný posádce a kapitánovi:**  
  Posádka je tvoje rodina na moři, a kapitán je ten, kdo ti dává směr. Stůj při nich v dobrých i zlých časech.
- 
+
 2. **Dodržuj sliby a přísahy:**  
 Každé slovo je závazek. Sliby dané na moři mají zvláštní váhu a jejich porušení může přivolat zlé duchy oceánu.
 
