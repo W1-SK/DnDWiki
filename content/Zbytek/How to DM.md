@@ -21,6 +21,7 @@ Pokud se například setkáte s novým antagonistou, necháte hráče rozhodnout
 
 ## Zákon vlivu vypravěče
 ![[DMMaNejvetsiVahuNaZacatku.jpg|500]]
+
 V první části hry máte největší kontrolu nad příběhem, což je ideální chvíle pro uvádění hráčů do akce. Tento přístup nazývám **Zákon vlivu vypravěče**:
 - **Začátek hry**: Na začátku hry můžete hodně ovlivnit dění – třeba tím, že začnete scénu s postavami v pasti, na válečné frontě, nebo v nečekané situaci. Jakmile se ale začne hra rozvíjet, vliv DMka se snižuje.
 - **Zajištění hráčské motivace**: Začněte hru situací, ve které postavy čelí konkrétní výzvě, místo aby čekaly na nějaký úvodní podnět. Tento přístup rychle upoutá pozornost hráčů a motivuje je k okamžité akci.
