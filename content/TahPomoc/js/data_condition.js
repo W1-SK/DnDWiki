@@ -128,7 +128,7 @@ data_condition = [
         ]
     },
     {
-        title: "Prone",
+        title: "Ležící (sražený)",
         icon: "crawl",
         subtitle: "You are prone",
         description: "You are prone",
