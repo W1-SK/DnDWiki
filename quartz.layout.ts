@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Knihy : "https://github.com/W1-SK/DnDWiki/tree/v4/content/Assets/Books", 
       Video : "https://www.youtube.com/watch?v=oavMtUWDBTM",
+      Kolo : "https://w1-sk.github.io/DnDWiki/TahPomoc/Help.html"
     },
   }),
 }
