@@ -1,199 +1,199 @@
 data_action = [
     {
-        title: "Attack",
+        title: "Útok",
         icon: "crossed-swords",
-        subtitle: "Melee or ranged attack",
-        description: "Perform a melee or ranged attack with your weapon",
-        reference: "PHB, pgs. 192,194-195.",
+        subtitle: "Útoky na blízko nebo na dálku",
+        description: "Proveďte útok zblízka nebo na dálku svou zbraní.",
+        reference: "PHB, str. 192,194-195.",
         bullets: [
-            "Certain features, such as the <i>Extra Attack</i> feature of the fighter, allow you to make more than one attack with this action. Each of these attacks is a separate roll and may target different creatures. You may move in between these attacks.",
-            "When you attack with a light melee weapon, you can use a bonus action to attack with your other hand (see the <i>Offhand attack</i> bonus action).",
-            "You may replace one of your melee attacks with a <i>Grapple</i> or a <i>Shove</i>.",
-            "Some conditions give advantage on the attack: attacks against blinded, paralyzed, petrified, restrained, stunned, or unconscious targets; melee attacks against prone targets; attacks by invisible or hidden attackers.",
-            "Some conditions give disadvantage on the attack: attacks against invisible or hidden targets; ranged attacks against prone targets; attacks by blinded, frightened, poisoned, or restrained attackers."
+            "Některé vlastnosti, jako například <i>Útok navíc</i> bojovníka, umožňují provést touto akcí více než jeden útok. Každý z těchto útoků je samostatným hodem a může mířit na různé tvory. Mezi těmito útoky se můžete pohybovat.",
+            "Když útočíte lehkou zbraní pro boj zblízka, můžete použít bonusovou akci k útoku druhou rukou (viz bonusová akce <i>Útok druhou rukou</i>).",
+            "Jeden ze svých útoků zblízka můžeš nahradit akcí <i>Chvat</i> nebo <i>Strčení  </i>.",
+            "Některé stavy poskytují výhodu při útoku: útoky proti oslepeným, paralyzovaným, zkamenělým, zadrženým, ochromeným nebo bezvědomým cílům; útoky zblízka proti ležícím cílům; útoky neviditelných nebo skrytých útočníků.",
+            "Některé stavy poskytují nevýhodu při útoku: útoky proti neviditelným nebo skrytým cílům; útoky na dálku proti ležícím cílům; útoky oslepených, vystrašených, otrávených nebo zadržených útočníků."
         ]
     },
     {
-        title: "Grapple",
+        title: "Chvat",
         icon: "grab",
-        subtitle: "Special melee attack",
-        description: "Attempt to grab a creature or wrestle with it",
-        reference: "PHB, pg. 195.",
-        bullets: [
-            "You can use the <i>Attack</i> action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your grapple must be no more than one size larger than you, and it must be within your reach.",
-            "Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you succeed, you subject the target to the grappled condition (its speed is set to 0)."
+        subtitle: "Speciální útok zblízka",
+        description: "Pokus o uchopení tvora nebo zápas s ním.",
+        reference: "PHB, str. 195.",
+        bullets: [        
+            "Akci <i>Útok</i> můžete použít ke speciálnímu útoku zblízka, k chvatu. Pokud jsi schopen provést více útoků akcí útok, tento útok nahrazuje jeden z nich.",
+            "Cíl tvého chvatu nesmí být o více než jednu velikost větší než ty a musí být v tvém dosahu.",
+            "Pomocí alespoň jedné volné ruky se pokusíš cíl chytit tak, že provedeš ověření síly (Atletika), proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
+            "Pokud uspěješ, cíl bude ve stavu <i>Uchvácený</i> (jeho rychlost je nastavena na 0)."
         ]
     },
     {
-        title: "Shove",
+        title: "Strčení",
         icon: "hand",
-        subtitle: "Special melee attack",
-        description: "Shove a creature, either to knock it prone or push it away from you",
-        reference: "PHB, pg. 195.",
+        subtitle: "Speciální útok zblízka",
+        description: "Odstrčte tvora, abyste ho srazili na kolena nebo ho od sebe odstrčili.",
+        reference: "PHB, str. 195.",
         bullets: [
-            "Using the <i>Attack</i> action, you can make a special melee attack to shove a creature. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.",
-            "The target of your shove must be no more than one size larger than you, and it must be within your reach.",
-            "You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).",
-            "If you win the contest, you either knock the target prone or push it 5 feet away from you."
-        ]
+            "Pomocí akce <i>Útok</i> můžeš provést speciální útok zblízka a odstrčit tvora. Pokud jsi schopen provést více útoků pomocí akce útok, tento útok nahrazuje jeden z nich.",
+            "Cíl tvého strčení nesmí být o více než jednu velikost větší než ty a musí být v tvém dosahu.",
+            "Provedeš ověření síly (Atletika), proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
+            "Pokud ověření vyhraješ, buď cíl srazíš na kolena(<i>Ležící</i>), nebo ho od sebe odstrčíš na vzdálenost 5 stop."
+        ]   
     },
     {
-        title: "Cast a spell",
+        title: "Seslání kouzla",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 action",
-        description: "Cast a spell with a casting time of 1 action",
-        reference: "PHB, pg. 192.",
+        subtitle: "Doba seslání je 1 akce",
+        description: "Seslat kouzlo s dobou seslání 1 akce.",
+        reference: "PHB, str. 192.",
         bullets: [
-            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
-            "The target of a spell must be within the spell's range. To target something, you must have a clear path to it, so it can't be behind total cover.",
-            "Spells with material components do not consume the material unless explicitly stated. Unless the cost of a material is given, you can assume that the cost is negligible and the material is simply available in a component pouch.",
-            "Some spells require you to maintain concentration in order to keep their magic active. If you lose concentration, such a spell ends. You lose concentration on a spell if you cast another spell that requires concentration or when you are incapacitated. Each time you take damage, you must make a Constitution saving throw to maintain your concentration. The DC equals 10 or half the damage you take, whichever number is higher."
+            "Nemůžete seslat kouzlo svou akcí a jiné kouzlo svou bonusovou akcí ve stejném tahu, s výjimkou případů, kdy je akce použita k seslání triku",
+            "Cíl kouzla musí být v dosahu kouzla. Abyste mohli něco zaměřit, musíte k němu mít volnou cestu, takže se nemůže nacházet za úplným krytem.",
+            "Kouzla s materiálními složkami nespotřebovávají materiál, pokud to není výslovně uvedeno. Pokud není uvedena cena materiálu, můžete předpokládat, že je cena zanedbatelná a materiál je jednoduše k dispozici v brašničce se surovinami.",
+            "Některá kouzla vyžadují, abys udržoval koncentraci, aby jejich magie byla aktivní. Pokud koncentraci ztratíte, takové kouzlo skončí. Soustředění na kouzlo ztratíte, pokud sesíláte jiné kouzlo, které vyžaduje soustředění, nebo pokud jste neschopní. Pokaždé, když utrpíte poškození, musíte provést záchranný hod na udržení koncentrace. SO se rovná 10 nebo polovině utrpěného poškození, podle toho, které číslo je vyšší."
         ]
     },
     {
-        title: "Dash",
+        title: "Sprint",
         icon: "sprint",
-        subtitle: "Double movement speed",
-        description: "Gain extra movement for the current turn",
-        reference: "PHB, pg. 192.",
+        subtitle: "Zdvojnásobení rychlosti pohybu",
+        description: "Získání pohybu navíc pro aktuální tah",
+        reference: "PHB, str. 192.",
         bullets: [
-            "The increase equals your speed, after applying any modifiers."
+            "Zvýšení se rovná vaší rychlosti po použití všech modifikátorů krát 2."
         ]
     },
     {
-        title: "Disengage",
+        title: "Odpoutání se",
         icon: "journey",
-        subtitle: "Prevent opportunity attacks",
-        description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
-        reference: "PHB, pg. 192.",
+        subtitle: "Předcházení příležitostným útokům",
+        description: "Váš pohyb nevyvolává příležitostné útoky po zbytek tahu.",
+        reference: "PHB, str. 192.",
         bullets: [
         ]
     },
     {
-        title: "Dodge",
+        title: "Uhýbání",
         icon: "aura",
-        subtitle: "Increase defenses",
-        description: "Focus entirely on avoiding attacks",
-        reference: "PHB, pg. 192.",
+        subtitle: "Zvýšení obrany",
+        description: "Soustředíte se výhradně na vyhýbání útokům",
+        reference: "PHB, str. 192.",
         bullets: [
-            "Until the start of your next turn, any attack roll made against you has disadvantage if you can see the attacker, and you make Dexterity saving throws with advantage.",
-            "You lose this benefit if you are <i>incapacitated</i> or if your speed drops to 0."
+            "Až do začátku svého dalšího tahu všichni mají při jakémkoli hodu na útok proti tobě nevýhodu, pokud útočníka vidíš, a záchranné hody na obratnost provádíš s výhodou.",
+            "Tuto výhodu ztrácíš, pokud jsi <i>neschopný</i> nebo pokud tvá rychlost klesne na 0."
         ]
     },
     {
-        title: "Escape",
+        title: "Únik z chvatu",
         icon: "manacles",
-        subtitle: "Escape a grapple",
-        description: "Escape a grapple",
-        reference: "PHB, pg. 195.",
+        subtitle: "Únik z chvatu",
+        description: "Únik z chvatu",
+        reference: "PHB, str. 195.",
         bullets: [
-            "To escape a grapple, you must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by the grappler's Strength (Athletics) check.",
-            "Escaping other conditions that restrain you (such as manacles) may require a Dexterity or Strength check, as specified by the condition."
+            "Chcete-li uniknout ze sevření, musíte uspět v ověření síly (Atletika) nebo obratnosti (Akrobacie), proti ověření síly (Atletika) toho kdo tě drží.",
+            "Únik z jiných podmínek, které vás zadržují (např. pouta), může vyžadovat ověření obratnosti nebo síly, jak je uvedeno u dané podmínky."
         ]
     },
     {
-        title: "Help",
+        title: "Pomoc",
         icon: "telepathy",
-        subtitle: "Grant an ally advantage",
-        description: "Grant an ally advantage on an ability check or attack",
-        reference: "PHB, pg. 192.",
+        subtitle: "Udělení výhody spojenci",
+        description: "Poskytnout spojenci výhodu při ověření schopnosti nebo útoku.",
+        reference: "PHB, str. 192.",
         bullets: [
-            "The target gains advantage on the next ability check it makes to perform the task you are helping with.",
-            "Alternatively, the target gains advantage on the next attack roll against against a creature within 5 feet of you.",
-            "The advantage lasts until the start of your next turn."
+            "Cíl získá výhodu při příštím ověření schopnosti, kterou provede při plnění úkolu, s nímž mu pomáháte.",
+            "Případně cíl získá výhodu při příštím hodu na útok proti bytosti ve vzdálenosti do 5 stop od vás.",
+            "Výhoda trvá až do začátku vašeho dalšího tahu."
         ]
     },
     {
-        title: "Use Object",
+        title: "Použití předmětu",
         icon: "snatch",
-        subtitle: "Interact, use special abilities",
-        description: "Interact with a second object or use special object abilities",
-        reference: "PHB, pg. 193.",
+        subtitle: "Interakce, používání speciálních schopností",
+        description: "interakce s druhým objektem nebo použití speciálních schopností objektu.",
+        reference: "PHB, str. 193.",
         bullets: [
-            "You can interact with one object for free during your turn (such as drawing a weapon or opening a door). If you want to interact with a second object, use this action.",
-            "When an object requires your action for its use, you also take this action."
+            "Během svého tahu můžete zdarma interagovat s jedním předmětem (například vytáhnout zbraň nebo otevřít dveře). Pokud chcete interagovat s druhým objektem, použijte tuto akci.",
+            "Pokud nějaký předmět vyžaduje pro své použití vaši akci, využijete také tuto akci."
         ]
     },
     {
-        title: "Use shield",
+        title: "Použít štít",
         icon: "round-shield",
-        subtitle: "Equip or unequip a shield",
-        description: "Equip or unequip a shield",
-        reference: "PHB, pgs. 144-146.",
+        subtitle: "Vybavení nebo odzbrojení štítu",
+        description: "Vybavení nebo odzbrojení štítu",
+        reference: "PHB, str. 144-146.",
         bullets: [
-            "A shield always takes an action to equip or unequip.",
-            "Armor takes several minutes to equip or unequip."
+            "Vybavení nebo odzbrojení štítu vždy vyžaduje akci.",
+            "Vybavení nebo odzbrojení zbroje trvá několik minut."
         ]
     },
     {
-        title: "Hide",
+        title: "Schování se",
         icon: "hood",
-        subtitle: "",
-        description: "Attempt to hide",
-        reference: "PHB, pg. 192.",
+        subtitle: "Pokus o skrytí",
+        description: "Pokus o skrytí",
+        reference: "PHB, str. 192.",
         bullets: [
-            "You can't hide from a creature that can see you. You must have total cover, be in a heavily obscured area, be invisible, or otherwise block the enemy's vision.",
-            "If you make noise (such as shouting a warning or knocking over a vase), you give away your position.",
-            "When you try to hide, make a Dexterity (Stealth) check and note the result. Until you are discovered or you stop hiding, that check's total is contested by the Wisdom (Perception) check of any creature that actively searches for signs of your presence.",
-            "A creature notices you even if it isn't searching unless your Stealth check is higher than its Passive Perception.",
-            "Out of combat, you may also use a Dexterity (Stealth) check for acts like concealing yourself from enemies, slinking past guards, slipping away without being noticed, or sneaking up on someone without being seen or heard."
+            "Před tvorem, který tě vidí, se neschováš. Musíte se zcela krýt, být v hustě zahaleném prostoru, být neviditelní nebo jinak blokovat nepříteli výhled.",
+            "Pokud děláte hluk (například křičíte varování nebo převrhnete vázu), prozradíte svou pozici.",
+            "Když se snažíš skrýt, proveď ověření obratnosti (Nenápadnost) a zapiš si výsledek. Dokud nejsi odhalen nebo se nepřestaneš skrývat, je výsledek tohoto ověření testován proti ověřením Moudrosti (Vnímání) jakéhokoli tvora, který aktivně pátrá po známkách tvé přítomnosti.",
+            "Tvor si tě všimne, i když tě zrovna nehledá, pokud tvůj ověření nenápadnosti není vyšší než jeho pasivní vnímání.",
+            "Mimo boj můžeš také použít ověření obratnosti (Nenápadnost) pro úkony, jako je skrývání se před nepřáteli, proplížení se kolem stráží, proklouznutí bez povšimnutí nebo proplížení se k někomu, aniž by tě někdo viděl nebo slyšel."
         ]
     },
     {
-        title: "Search",
+        title: "Hledání",
         icon: "magnifying-glass",
         subtitle: "",
-        description: "Devote your attention to finding something",
-        reference: "PHB, pg. 193.",
+        description: "Věnujte svou pozornost hledání něčeho",
+        reference: "PHB, str. 193.",
         bullets: [
-            "Depending on the nature of your search, the DM might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check."
+            "V závislosti na povaze vašeho pátrání vám DM může zadat ověření Moudrosti (Vnímání) nebo Inteligence (Vyšetřování)."
         ]
     },
     {
-        title: "Ready",
+        title: "Příprava",
         icon: "stopwatch",
-        subtitle: "Choose trigger and action",
-        description: "Choose a trigger and a response reaction",
-        reference: "PHB, pg. 193.",
+        subtitle: "Výběr spouštěče a akce",
+        description: "Zvolte spouštěč a reakci",
+        reference: "PHB, str. 193.",
         bullets: [
-            "First, you decide what perceivable circumstance will trigger your reaction.",
-            "Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.",
-            "When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.",
-            "When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration"
+            "Nejprve se rozhodněte, jaká vnímatelná okolnost vyvolá vaši reakci.",
+            "Poté si vyberete akci, kterou v reakci na tento spouštěč provedete, nebo se rozhodnete, že v reakci na ni se pohnete o svou rychlost.",
+            "Když dojde ke spouštěči, můžete buď provést svou reakci ihned po jeho skončení, nebo spouštěč ignorovat.",
+            "Když si připravíš kouzlo, sesíláš ho jako obvykle, ale zadržuješ jeho energii, kterou uvolníš svou reakcí, když dojde ke spuštění. Aby bylo kouzlo připraveno, musí mít dobu seslání 1 akce a udržení magie kouzla vyžaduje soustředění."
         ]
     },
     {
-        title: "Use class feature",
+        title: "Použít schopnost třídy",
         icon: "embrassed-energy",
-        subtitle: "Some features use actions",
-        description: "Use a racial or class feature that uses an action",
-        reference: "See class page for more information.",
+        subtitle: "Některé schopnosti používají akci",
+        description: "Použití vlastnosti rasy nebo povolání, která používá akci.",
+        reference: "Další informace naleznete na stránce povolání nebo rasy.",
         bullets: [
 
         ]
     },
     {
-        title: "Stabilize a creature",
+        title: "Stabilizovat tvora",
         icon: "first-aid",
-        subtitle: "Administer first aid to a dying creature",
-        description: "Stop a dying creature from needing to make death saving throws",
-        reference: "PHB, pg. 197.",
+        subtitle: "Poskytnutí první pomoci umírajícímu tvorovi",
+        description: "Zastavit umírajícího tvora před nutností provést záchranný hod na smrt.",
+        reference: "PHB, str. 197.",
         bullets: [
-            "Make a Wisdom (Medicine) check with DC 10",
-            "On a success, the creature is stable and no longer needs to make death saving throws",
-            "A stable creature regains 1 hit point after 1d4 hours"
+            "Proveďte ověření moudrosti (Lékařství) s SO 10",
+            "Při úspěchu je tvor stabilizován a nemusí již provádět záchranné hody proti smrti",
+            "Stabilní tvor získá po 1d4 hodinách 1 život."
         ]
     },
     {
-        title: "Improvise",
+        title: "Improvizovat",
         icon: "juggler",
-        subtitle: "Any action not on this list",
-        description: "Perform any action you can imagine",
-        reference: "PHB, pg. 193.",
+        subtitle: "Jakýkoliv akce(není seznamu)",
+        description: "Proveďte jakoukoli akci, kterou si dokážete představit",
+        reference: "PHB, str. 193.",
         bullets: [
-            "When you describe an action not detailed elsewhere in the rules, the DM tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure."
+            "Když popíšete akci, která není popsána jinde v pravidlech, DM vám řekne, zda je tato akce možná a jaký hod je třeba provést, abyste určili úspěch nebo neúspěch."
         ]
     }
 ]

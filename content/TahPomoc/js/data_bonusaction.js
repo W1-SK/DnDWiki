@@ -1,34 +1,34 @@
 data_bonusaction = [
     {
-        title: "Offhand Attack",
+        title: "Útok druhou rukou",
         icon: "crossed-swords",
-        subtitle: "Use with the Attack action",
-        description: "Attack with your off hand",
-        reference: "PHB, pgs. 192,194-195.",
+        subtitle: "Jen s akcí Útok",
+        description: "Útok druhou rukou",
+        reference: "PHB, str. 192,194-195.",
         bullets: [
-            "Only usable if you take the <i>Attack</i> action and attack with a light melee weapon that you're holding in one hand.",
-            "Perform a single attack with a different light melee weapon that you're holding in the other hand.",
-            "You don't add your ability modifier to the damage of the bonus attack, unless that modifier is negative.",
-            "If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it."
+            "Lze použít pouze v případě, že provedete akci <i>Útok</i> a zaútočíte lehkou zbraní pro boj zblízka, kterou držíte v jedné ruce.",
+            "Proveďte jeden útok jinou lehkou zbraní pro boj zblízka, kterou držíte v druhé ruce.",
+            "K poškození bonusového útoku nepřičítáš svůj modifikátor schopnosti, pokud není tento modifikátor záporný.",
+            "Pokud je některá ze zbraní vrhací , můžeš zbraň hodit, místo abys s ní provedl útok zblízka."
         ]
     },
     {
-        title: "Cast a spell",
+        title: "Seslání kouzla",
         icon: "magic-swirl",
         subtitle: "Cast time of 1 bonus action",
         description: "Cast a spell with a casting time of 1 bonus action",
-        reference: "PHB, pg. 192.",
+        reference: "PHB, str. 192.",
         bullets: [
-            "You can't cast a spell with you action and a different spell with your bonus action in the same turn, except if the action is used to cast a cantrip.",
-            "For further details, see the <i>Cast a spell</i> action."
+            "Nemůžete seslat kouzlo svou akcí a jiné kouzlo svou bonusovou akcí ve stejném tahu, s výjimkou případů, kdy je akce použita k seslání triku",
+            "Další podrobnosti naleznete u akce <i>Seslání kouzla</i>."
         ]
     },
     {
-        title: "Use class feature",
+        title: "Použít schopnost třídy",
         icon: "embrassed-energy",
-        subtitle: "Some features use bonus actions",
-        description: "Use a racial or class feature that uses a bonus action",
-        reference: "See class page for more information.",
+        subtitle: "Některé schopnosti používají bonusovou akci",
+        description: "Použití vlastnosti rasy nebo povolání, která používá bonusovou akci.",
+        reference: "Další informace naleznete na stránce povolání nebo rasy.",
         bullets: [
 
         ]
