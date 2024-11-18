@@ -1,3 +1,8 @@
+---
+title: "Máťovo wiki"
+---
+ 
+
 Vítejte, odvážní dobrodruzi Exandrie, na starobylých stránkách tohoto svitku, který uchovává tajemství a záznamy o rosáhlém kontinentu Wildemount!
 
 Zde se vám otevírá brána k moudrosti shromážděné během věků, k příběhům o hrdinech a padlých královstvích, která formovala tuto zemi. Ať už putujete ledovými pustinami zšedivělých divočin, odhalujete tajemství Dunamancy v Krynské dynastii nebo se zaplétáte do intrik Dwendalského království, tento svitek vám poskytne vědění, které může rozhodnout o osudu vašich cest.
