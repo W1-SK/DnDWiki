@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Knihy : "https://github.com/W1-SK/DnDWiki/tree/v4/content/Assets/Books", 
       Boj : "https://w1-sk.github.io/DnDWiki/TahPomoc/Help.html",
-      Kalednář : "https://app.fantasy-calendar.com/calendars/5005dcf15411157df7272ce2a8273953",
+      Kalendář : "https://app.fantasy-calendar.com/calendars/5005dcf15411157df7272ce2a8273953",
       Video : "https://www.youtube.com/watch?v=oavMtUWDBTM"
     },
   }),
