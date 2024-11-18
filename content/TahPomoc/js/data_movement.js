@@ -15,7 +15,7 @@ data_movement = [
         ]
     },
     {
-        title: "Šlpání",
+        title: "Šplhání",
         icon: "crags",
         subtitle: "Cena: 10ft za 5ft",
         description: "Cena za přesun: 10ft za 5ft vylezených",
