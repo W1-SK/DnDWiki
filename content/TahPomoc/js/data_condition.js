@@ -1,200 +1,202 @@
 data_condition = [
     {
-        title: "Blinded",
+        title: "Slepý",
         icon: "one-eyed",
-        subtitle: "You can't see",
-        description: "You can't see",
-        reference: "PHB, pg. 290.",
+        subtitle: "Nevidíš",
+        description: "Nevidíš",
+        reference: "PHB, str. 290.",
         bullets: [
-            "You automatically fail any ability check which requires sight.",
-            "You have disadvantage on attack rolls.",
-            "Attack rolls against you have advantage."
+            "Slepý tvor nevidí a automaticky neuspěje v ověřeních vlastností, která vyžadují zrak.",
+            "Hody na útok proti slepému tvorovi mají výhodu.",
+            "Tvorovy hody na útok mají nevýhodu."
         ]
     },
     {
-        title: "Charmed",
+        title: "Zmámený",
         icon: "smitten",
-        subtitle: "You are charmed",
-        description: "You are charmed by another creature",
-        reference: "PHB, pg. 290.",
+        subtitle: "Jsi zmámen",
+        description: "Jsi zmámen jiným tvorem",
+        reference: "PHB, str. 290.",
         bullets: [
-            "You can't attack your charmer or target them with harmful abilities or magical effects.",
-            "Your charmer has advantage on ability checks to interact socially with you."
+            "Zmámený tvor nemůže zaútočit na toho, kdo ho zmámil, ani ho zacílit zraňujícími schopnostmi či magickými účinky..",
+            "Tvor, který způsobil tvorovo zmámení, má výhodu ke všem ověřením vlastností vztahujícím se k společenské interakci se zmámeným tvorem."
         ]
     },
     {
-        title: "Deafened",
+        title: "Hluchý",
         icon: "elf-ear",
-        subtitle: "You can't hear",
-        description: "You can't hear",
-        reference: "PHB, pg. 290.",
+        subtitle: "Neslyšíš",
+        description: "Neslyšíš",
+        reference: "PHB, str. 290.",
         bullets: [
-            "You automatically fail any ability check which requires hearing."
+            "Hluchý tvor neslyší a automaticky neuspěje v ověřeních vlastností, která vyžadují sluch."
         ]
     },
     {
-        title: "Exhaustion",
+        title: "Únava",
         icon: "crawl",
-        subtitle: "You are exhausted",
-        description: "Exhaustion is measured in six levels",
-        reference: "PHB, pg. 291.",
+        subtitle: "Máš únavu",
+        description: "Únava se měří v šesti stupních",
+        reference: "PHB, str. 291.",
         bullets: [
-            "<table><tr><th>Level</th><th></th><th></th><th style='text-align:left'>Effect</th></tr><tr><td>1</td><td></td><td></td><td>Disadvantage on ability checks</td></tr><tr><td>2</td><td></td><td></td><td>Speed halved</td></tr><tr><td>3</td><td></td><td></td><td>Disadvantage on attack rolls and saving throws</td></tr><tr><td>4</td><td></td><td></td><td>Hit point maximum halved</td></tr><tr><td>5</td><td></td><td></td><td>Speed reduced to 0</td></tr><tr><td>6</td><td></td><td></td><td>Death</td></tr></table>",
-            "You suffer the effect of your current level of exhaustion as well as all lower levels.",
-            "Finishing a long rest reduces your exhaustion level by 1, provided that you have also had some food and drink.",
-            "Also, being raised from the dead reduces a creature’s exhaustion level by 1."
+            "<table><tr><th>Stupeň</th><th></th><th></th><th style='text-align:left'>Účinek</th></tr><tr><td>1</td><td></td><td></td><td>Nevýhoda k ověření vlastností</td></tr><tr><td>2</td><td></td><td></td><td>Snížení rychlosti na polovinu</td></tr><tr><td>3</td><td></td><td></td><td>Nevýhoda k hodům na útok a záchranným hodům</td></tr><tr><td>4</td><td></td><td></td><td>Snížení maxima životů na polovinu</td></tr><tr><td>5</td><td></td><td></td><td>Snížení rychlosti na 0</td></tr><tr><td>6</td><td></td><td></td><td>Smrt</td></tr></table>",
+            "Trpíte účinkem své aktuální úrovně vyčerpání i všech úrovní nad ním",
+            "Dokončení důkladného odpočinku snižuje tvou úroveň vyčerpání o 1 za předpokladu, že jsi měl také nějaké jídlo a pití.",
+            "Také vzkříšení z mrtvých snižuje úroveň vyčerpání tvora o 1."
         ]
     },
     {
-        title: "Frightened",
+        title: "Vystrašený",
         icon: "sharp-smile",
-        subtitle: "You are frightened",
-        description: "You are frightened",
-        reference: "PHB, pg. 290.",
+        subtitle: "Jsi vystrašen",
+        description: "Jsi vystrašen",
+        reference: "PHB, str. 290.",
         bullets: [
-            "You have disadvantage on ability checks and attack rolls while the source of your fear is within line of sight.",
-            "You can't willingly move closer to the source of your fear."
+            "Vystrašený tvor má nevýhodu k ověřením vlastností a hodům na útok, když zdroj jeho strachu je v jeho výhledu.",
+            "Tvor se nemůže dobrovolně pohnout blíže ke zdroji svého strachu."
         ]
     },
     {
-        title: "Grappled",
+        title: "Uchvácený",
         icon: "grab",
-        subtitle: "You are grappled",
-        description: "You are grappled",
-        reference: "PHB, pg. 290.",
+        subtitle: "Jsi uchvácený",
+        description: "Jsi uchvácený",
+        reference: "PHB, str. 290.",
         bullets: [
-            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
-            "The condition ends if your grappler is incapacitated.",
-            "The condition also ends if you are removed from the reach of your grappler."
+            "Rychlost uchváceného tvora se mění na 0 a nemá prospěch z žádného bonusu k rychlosti.",
+            "Stav skončí, stane-li se uchvatitel neschopný (viz daný stav).",
+            "Stav také skončí, vyjme-li nějaký účinek uchváceného tvora z dosahu uchvatitele či uchvacujícího účinku, například když je tvor vržen pryč kouzlem <i>hromová vlna</i>."
         ]
     },
     {
-        title: "Incapacitated",
+        title: "Neschopný",
         icon: "internal-injury",
-        subtitle: "You can't take actions or reactions",
-        description: "You can't take actions or reactions",
-        reference: "PHB, pg. 290.",
+        subtitle: "Nemůžeš provádět akce ani reakce",
+        description: "Nemůžeš provádět akce ani reakce",
+        reference: "PHB, str. 290.",
         bullets: [
         ]
     },
     {
-        title: "Invisible",
+        title: "Neviditelný",
         icon: "invisible",
-        subtitle: "You can't be seen",
-        description: "You can't be seen without the aid of magic or a special sense",
-        reference: "PHB, pg. 291.",
+        subtitle: "Jsi neviditelný",
+        description: "Bez pomoci magie nebo zvláštního smyslu tě nelze spatřit.",
+        reference: "PHB, str. 291.",
         bullets: [
-            "For the purpose of hiding, you are heavily obscured.",
-            "You can still be detected by any noise you make or tracks you leave.",
-            "You have advantage on attack rolls.",
-            "Attack rolls against you have disadvantage."
+            "Neviditelného tvora není možné vidět bez pomoci magie či zvláštního smyslu.",
+            "Z hlediska schování je tvor hustě zahalený.",
+            "Polohu tvora je možné odhalit podle hluku, který způsobuje, či stop, které zanechává.",
+            "Hody na útok proti neviditelnému tvorovi mají nevýhodu.",
+            "Tvorovy hody na útok mají výhodu."
         ]
     },
     {
-        title: "Paralyzed",
+        title: "Paralyzovaný",
         icon: "internal-injury",
-        subtitle: "You are paralyzed",
-        description: "You can't do anything",
+        subtitle: "Jsi paralyzovaný",
+        description: "Nemůžeš dělat nic",
         bullets: [
-            "You are incapacitated and can't move or speak.",
-            "Attack rolls against you have advantage.",
-            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you.",
-            "You automatically fail Strength and Dexterity saving throws."
+            "Paralyzovaný tvor je <i>Neschopný</i> a nemůže se hýbat ani mluvit.",
+            "Útoky proti tvorovi mají výhodu.",
+            "Každý útok, který zasáhne tvora, je kritický útok, je-li útočník do 1 sáhu od paralyzovaného tvora.",
+            "Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost."
         ]
     },
     {
-        title: "Petrified",
+        title: "Zkamenělý",
         icon: "stone-pile",
-        subtitle: "You are transformed into stone",
-        description: "You are transformed, along with any nonmagical objects you are wearing or carrying, into a solid inanimate substance (usually stone)",
-        reference: "PHB, pg. 291.",
+        subtitle: "Jsi změněn na kámen",
+        description: "Jsi změněn na kámen",
+        reference: "PHB, str. 291.",
         bullets: [
-            "Your weight increases by a factor of ten, and you cease aging.",
-            "You are incapacitated, can't move or speak, and are unaware of your surroundings.",
-            "Attack rolls against you have advantage.",
-            "You automatically fail Strength and Dexterity saving throws.",
-            "You have resistance to all damage.",
-            "You are immune to poison and disease, though a poison or disease already in your system is only suspended, not neutralized."
+            "Zkamenělý tvor se přemění do pevné neživé látky (obvykle kamene), spolu se všemi svými nemagickými předměty, které drží nebo nese.",
+            "Jeho váha se zdesetinásobí a tvor přestane stárnout.",
+            "Tvor je neschopný (viz daný stav), nemůže se hýbat ani mluvit a není si vědom svého okolí.",
+            "Hody na útok proti zkamenělému tvorovi mají výhodu.",
+            "Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.",
+            "Tvor je odolný vůči všem zraněním.",
+            "Tvor je imunní vůči jedu a nemoci, ale jedy či nemoci, které už v něm jsou, se nezneutralizují, jen pozastaví."
         ]
     },
     {
-        title: "Poisoned",
+        title: "Otrávený",
         icon: "deathcab",
-        subtitle: "You are poisoned",
-        description: "You are poisoned",
-        reference: "PHB, pg. 292.",
+        subtitle: "Jsi otrávený",
+        description: "Jsi otrávený",
+        reference: "PHB, str. 292.",
         bullets: [
-            "You have disadvantage on attack rolls and ability checks."
+            "Otrávený tvor má nevýhodu k hodům na útok a ověřením vlastností."
         ]
     },
     {
         title: "Ležící (sražený)",
         icon: "crawl",
-        subtitle: "You are prone",
-        description: "You are prone",
-        reference: "PHB, pg. 292.",
+        subtitle: "Ležíš",
+        description: "Ležíš nebo jsi sražený",
+        reference: "PHB, str. 292.",
         bullets: [
-            "Your only movement option is to crawl, unless you stand up.",
-            "You have disadvantage on attack rolls.",
-            "Attack rolls against you have advantage if the attacker is within 5 feet of you, otherwise the attack roll has disadvantage."
+            "Dokud se ležící tvor nepostaví a tím neukončí tento stav, jeho jediný druh pohybu je lezení.",
+            "Tvor má nevýhodu k hodům na útok.",
+            "Hod na útok proti ležícímu tvorovi má výhodu, je-li útočník od ležícího tvora do 1 sáhu. V opačném případě má hod na útok nevýhodu."
         ]
     },
     {
-        title: "Restrained",
+        title: "Zadržený",
         icon: "imprisoned",
-        subtitle: "You are restrained",
-        description: "You are restrained",
-        reference: "PHB, pg. 292.",
+        subtitle: "Jsi zadržený",
+        description: "Jsi zadržený",
+        reference: "PHB, str. 292.",
         bullets: [
-            "Your speed becomes 0, and you can't benefit from any bonus to your speed.",
-            "You have disadvantage on attack rolls.",
-            "Attack rolls against you have advantage.",
-            "You have disadvantage on Dexterity saving throws."
+            "Rychlost zadrženého tvora se změní na 0 a nemá žádný užitek z bonusů k rychlosti.",
+            "Hody na útok proti zadrženému tvorovi mají výhodu.",
+            "Tvorovy hody na útok mají nevýhodu.",
+            "Tvor má nevýhodu k záchranným hodům na Obratnost."
         ]
     },
     {
-        title: "Stunned",
+        title: "Ochromený",
         icon: "internal-injury",
-        subtitle: "You are stunned",
-        description: "You are stunned",
-        reference: "PHB, pg. 292.",
+        subtitle: "Jsi ochromený",
+        description: "Jsi ochromený",
+        reference: "PHB, str. 292.",
         bullets: [
-            "You are incapacitated, can't move, and can speak only falteringly.",
-            "Attack rolls against you have advantage.",
-            "You automatically fail Strength and Dexterity saving throws."
+            "Ochromený tvor je neschopný (viz daný stav), nemůže se pohnout a mluvit může pouze zajíkavě.",
+            "Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.",
+            "Hody na útok proti ochromenému tvorovi mají výhodu."
         ]
     },
     {
-        title: "Unconscious",
+        title: "V bezvědomí",
         icon: "coma",
-        subtitle: "You are unconscious",
-        description: "You are unconscious",
-        reference: "PHB, pg. 292.",
+        subtitle: "Jsi v bezvědomí",
+        description: "Jsi v bezvědomí",
+        reference: "PHB, str. 292.",
         bullets: [
-            "You are incapacitated, can't move or speak, and are unaware of your surroundings.",
-            "You drop whatever you're holding and fall prone.",
-            "Attack rolls against you have advantage.",
-            "Any attack that hits you is a critical hit if the attacker is within 5 feet of you.",
-            "You automatically fail Strength and Dexterity saving throws.",
+            "Tvor je <i>neschopný</i>, nemůže se hýbat ani mluvit a není si vědom svého okolí.",
+            "Tvor pustí cokoliv, co právě drží v ruce, a spadne na zem.",
+            "Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.",
+            "Hody na útok proti tvorovi v bezvědomí mají výhodu.",
+            "Útok, který zasáhne tvora v bezvědomí, způsobí kritický zásah, je-li útočník od tvora do 1 sáhu.",
         ]
     },
     {
-        title: "Dying",
+        title: "Umírání",
         icon: "dead-head",
-        subtitle: "You are dying",
-        description: "You have been dropped to zero hit points and are dying",
-        reference: "PHB, pg. 197.",
+        subtitle: "Umíráš",
+        description: "Vaše životy klesly na nulu, a proto umíráte.",
+        reference: "PHB, str. 197.",
         bullets: [
-            "If you are reduced to 0 hit points by damage that fails to kill you, you fall unconscious and are dying.",
-            "If you receive any healing you immediately regain consciousness again and no longer dying.",
-            "When dying, at the start of each of your turns you make a death saving throw. Roll a d20 and do not add any modifiers.",
-            "A 10 or higher is a success, 9 or lower is a failure.",
-            "On your third success, you become stable.",
-            "On your third failure, you die.",
-            "Rolling a 1 counts as two failures.",
-            "Rolling a 20 immediately causes you to regain 1 hit point.",
-            "You can also be stabilized by an ally taking the Stabilize action and succeeding on a DC 10 Wisdom (Medicine) check.",
-            "Once stable, you regain 1 hit point after 1d4 hours."
+            "Pokud vám poškození, které vás nezabije, sníží počet zásahových bodů na 0, upadnete do bezvědomí a začínáte umírat",
+            "Pokud obdržíš jakékoliv léčení, okamžitě nabýváš vědomí a již neumíráš.",
+            "Když umíráš, na začátku každého svého tahu provedeš záchranný hod na smrt. Hoď d20 a nepřidávej žádné modifikátory.",
+            "Desítka nebo vyšší je úspěch, devítka nebo nižší je neúspěch.",
+            "Při třetím úspěchu se stáváš stabilním.",
+            "Při třetím neúspěchu zemřeš.",
+            "Hod 1 se počítá jako dva neúspěchy.",
+            "Hod 20 ti okamžitě vrátí 1 život.",
+            "Můžeš být také stabilizován spojencem, který provede akci <b>Stabilizace</b> a uspěje v ověření moudrosti (Lékařství) SO 10.",
+            "Jakmile se stabilizuješ, po 1d4 hodinách získáš zpět 1 život."
         ]
     }
 ]

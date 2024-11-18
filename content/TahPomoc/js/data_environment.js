@@ -1,132 +1,132 @@
 data_environment_obscurance = [
     {
-        title: "Lightly obscured",
+        title: "Slabé zahalení",
         icon: "bleeding-eye",
-        subtitle: "Disadvantage on Perception",
-        description: "Dim light, patchy fog, moderate foliage",
-        reference: "PHB, pg. 183.",
+        subtitle: "Nevýhoda na vnímání",
+        description: "Tlumené světlo, místy mlha, mírná zeleň",
+        reference: "PHB, str. 183.",
         bullets: [
-            "Creatures have <b>disadvantage on Wisdom (Perception)</b> checks that rely on sight."
+            "Tvorové mají <b>nevýhodu při kontrolách moudrosti (Vnímání)</b>, které závisí na zraku."
         ]
     },
     {
-        title: "Heavily obscured",
+        title: "Husté zahalen",
         icon: "lightning-tear",
-        subtitle: "Effectively blind",
-        description: "Darkness, opaque fog, dense foliage",
-        reference: "PHB, pg. 183.",
+        subtitle: "Prakticky slepý",
+        description: "Tma, neprůhledná mlha, husté listí",
+        reference: "PHB, str. 183.",
         bullets: [
-            "A creature in a heavily obscured area effectively suffers from the <b>blinded condition</b>."
+            "Činnosti v Hustě zahalené oblasti se vykonávají, jako by postava byla <b>Oslepená</b>."
         ]
     }
 ]
 
 data_environment_light = [
     {
-        title: "Bright light",
+        title: "Jasno",
         icon: "star-pupil",
-        subtitle: "Normal vision",
-        description: "Bright light lets most creatures see normally",
-        reference: "PHB, pg. 183.",
+        subtitle: "Normální zrak",
+        description: "Jasné světlo umožňuje většině tvorů normálně vidět",
+        reference: "PHB, str. 183.",
         bullets: [
-            "Gloomy days still provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius."
+            "Šeré dny stále poskytují jasné světlo, stejně jako pochodně, lucerny, ohně a další zdroje osvětlení v určitém okruhu."
         ]
     },
     {
-        title: "Dim light",
+        title: "Šero",
         icon: "semi-closed-eye",
-        subtitle: "Lightly obscured",
-        description: "Dim light, also called shadows",
-        reference: "PHB, pg. 183.",
+        subtitle: "Slabé zahalení",
+        description: "Slabé světlo",
+        reference: "PHB, str. 183.",
         bullets: [
-            "Creates a <b>lightly obscured</b> area.",
-            "An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness.",
-            "The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light."
+            "Vytvoří <b>slabě zahalenou</b> oblast.",
+            "Oblast slabého světla je obvykle hranicí mezi zdrojem jasného světla, například svítilnou, a okolní tmou.",
+            "Světlo soumraku a svítání se také počítá jako tlumené světlo."
         ]
     },
     {
-        title: "Darkness",
+        title: "Tma ",
         icon: "worried-eyes",
-        subtitle: "Heavily obscured",
-        description: "Darkness creates a heavily obscured area",
-        reference: "PHB, pg. 183.",
+        subtitle: "Husté zahalen",
+        description: "Tma vytváří hustě zahalenou oblast",
+        reference: "PHB, str. 183.",
         bullets: [
-            "Creates a <b>heavily obscured</b> area.",
-            "Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness."
+            "Vytvoří <b>hustě zahalenou</b> oblast.",
+            "Postavy čelí tmě v noci, v neosvětlené kobce nebo v oblasti magické tmy."
         ]
     }
 ]
 
 data_environment_vision = [
     {
-        title: "Blindsight",
+        title: "Mimozrakové vnímání",
         icon: "one-eyed",
         subtitle: "Perceive without sight",
         description: "Perceive your surroundings without relying on sight, within a certain radius",
-        reference: "PHB, pg. 183.",
+        reference: "PHB, str. 183.",
         bullets: [
-            "Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense."
+            "Tímto smyslem disponují tvorové bez očí, jako jsou například slizy, a tvorové s echolokací nebo zesílenými smysly, jako jsou netopýři a někteří draci."
         ]
     },
     {
-        title: "Darkvision",
+        title: "Vidění ve tmě",
         icon: "semi-closed-eye",
         subtitle: "Limited vision in darkness",
         description: "A creature with Darkvision can see better in the dark or low light conditions, within a certain radius",
-        reference: "PHB, pgs. 183-184.",
+        reference: "PHB, strs. 183-184.",
         bullets: [
-            "Within a specified range, a creature with darkvision can <b>see in darkness as if the darkness were dim light</b>, so areas of darkness are only lightly obscured as far as that creature is concerned.",
-            "However, the creature can’t discern color in darkness, only shades of gray.",
-            "Many creatures in the worlds of D&D, especially those that dwell underground, have darkvision."
+            "V určitém dosahu může tvor s viděním ve tmě <b>vidět jako by tma bylo šero</b>, takže oblasti tmy jsou pro tohoto tvora jen slabě zahalené.",
+            "Tento tvor však ve tmě nedokáže rozeznat barvy, pouze odstíny šedé.",
+            "Mnoho tvorů ve světech D&D, zejména těch, kteří žijí v podzemí, má videní ve tmě."
         ]
     },
     {
-        title: "Truesight",
+        title: "Pravdivé vidění",
         icon: "eye-shield",
         subtitle: "See in darkness",
         description: "A creature with truesight can see everything in its true form, independent of the environment",
-        reference: "PHB, pg. 184.",
+        reference: "PHB, str. 184.",
         bullets: [
-            "A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.",
-            "Furthermore, the creature can see into the Ethereal Plane."
+            "Tvor s pravdivým viděním vidí do určité vzdálenosti v normální i magické tmě, vidí neviditelné tvory a předměty, automaticky rozpozná zrakové iluze a uspěje v záchranných hodech proti nim a vnímá původní podobu měňavce nebo tvora, který je přeměněn magií.",
+            "Kromě toho může tvor vidět do éterické sféry."
         ]
     }
 ]
 
 data_environment_cover = [
     {
-        title: "Half cover",
+        title: "Poloviční kryt",
         icon: "broken-shield",
-        subtitle: "Low wall, furniture, creatures",
-        description: "A target has half cover if an obstacle blocks at least half of its body",
-        reference: "PHB, pg. 196.",
+        subtitle: "Nízká stěna, nábytek, zvířata",
+        description: "Cíl má poloviční kryt, pokud překážka zakrývá aspoň polovinu jeho těla",
+        reference: "PHB, str. 196.",
         bullets: [
-            "The obstacle might be a low wall, a large piece of furniture, a narrow tree trunk, or a creature, whether that creature is an enemy or a friend.",
-            "A target with half cover has a <b>+2 bonus to AC and Dexterity saving throws</b>.",
-            " If a target is behind multiple sources of cover, only the most protective degree of cover applies"
+            "Překážkou může být nízká zídka, velký kus nábytku, úzký kmen stromu nebo tvor, ať už nepřítel či přítel.",
+            "Tvor má bonus <b>+2 k OČ a záchranným hodům na Obratnost</b>.",
+            "Je-li cíl za několika zdroji krytu, platí pouze ten kryt, který poskytuje největší stupeň ochrany; stupně se nesčítají."
         ]
     },
     {
-        title: "Three-quarters cover",
+        title: "Tříčtvrteční kryt",
         icon: "cracked-shield",
-        subtitle: "Portcullis, arrow slit",
-        description: "A target has three-quarters cover if about three-quarters of it is covered by an obstacle",
-        reference: "PHB, pg. 196.",
+        subtitle: "Padací mříž, střílna",
+        description: "Cíl má tříčtvrteční kryt, pokud překážka zakrývá asi tři čtvrtiny jeho těla",
+        reference: "PHB, str. 196.",
         bullets: [
-            "The obstacle might be a portcullis, an arrow slit, or a thick tree trunk.",
-            "A target with three-quarters cover has a <b>+5 bonus to AC and Dexterity saving throws</b>.",
-            " If a target is behind multiple sources of cover, only the most protective degree of cover applies"
+            "Překážkou může být padací mříž, střílna nebo tlustý kmen stromu.",
+            "Tvor má bonus <b>+5 k OČ a záchranným hodům na Obratnost</b>.",
+            " Je-li cíl za několika zdroji krytu, platí pouze ten kryt, který poskytuje největší stupeň ochrany; stupně se nesčítají."
         ]
     },
     {
-        title: "Full cover",
+        title: "Úplný kryt",
         icon: "shield",
-        subtitle: "Completely concealed",
-        description: "A target has total cover if it is completely concealed by an obstacle",
-        reference: "PHB, pg. 196.",
+        subtitle: "Zcela skrytý",
+        description: "Cíl má úplný kryt, pokud je zcela zakrytý překážkou",
+        reference: "PHB, str. 196.",
         bullets: [
-            "A target with total cover <b>can’t be targeted directly</b> by an attack or a spell, although some spells can reach such a target by including it in an area of effect.",
-            "If a target is behind multiple sources of cover, only the most protective degree of cover applies"
+            "Tvor <b>nelze přímo zamířit/<b> pomocí útoku nebo kouzla, ačkoliv některá kouzla mohou dosáhnout na takový cíl tak, že ho zahrnou do oblasti účinku.",
+            "Je-li cíl za několika zdroji krytu, platí pouze ten kryt, který poskytuje největší stupeň ochrany; stupně se nesčítají."
         ]
     }
 ]

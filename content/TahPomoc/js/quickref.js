@@ -62,10 +62,10 @@ function init() {
     fill_section(data_bonusaction, "basic-bonus-actions", "Bonusová akce");
     fill_section(data_reaction, "basic-reactions", "Reakce");
     fill_section(data_condition, "basic-conditions", "Stavy");
-    fill_section(data_environment_obscurance, "environment-obscurance", "Efekty prostředí");
-    fill_section(data_environment_light, "environment-light", "Efekty prostředí");
-    fill_section(data_environment_vision, "environment-vision", "Efekty prostředí");
-    fill_section(data_environment_cover, "environment-cover", "Efekty prostředí");
+    fill_section(data_environment_obscurance, "environment-obscurance", "Efekty prostředí - Viditelnost");
+    fill_section(data_environment_light, "environment-light", "Efekty prostředí - Světlo");
+    fill_section(data_environment_vision, "environment-vision", "Efekty prostředí - Zrak");
+    fill_section(data_environment_cover, "environment-cover", "Efekty prostředí - Kryt");
 
     var modal = document.getElementById("modal");
     modal.onclick = hide_modal;
