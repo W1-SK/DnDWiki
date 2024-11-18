@@ -15,7 +15,7 @@ data_bonusaction = [
     {
         title: "Seslání kouzla",
         icon: "magic-swirl",
-        subtitle: "Cast time of 1 bonus action",
+        subtitle: "Doba seslání je 1 bonusová akce",
         description: "Cast a spell with a casting time of 1 bonus action",
         reference: "PHB, str. 192.",
         bullets: [

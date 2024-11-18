@@ -6,10 +6,10 @@ data_reaction = [
         description: "Málokdy se můžete bezstarostně pohybovat kolem nepřátel, aniž byste se vystavili nebezpečí.",
         reference: "PHB, str. 195.",
         bullets: [
-            "Trigger: enemy creature you can see leaves your reach.",
-            "Make one melee attack against the provoking creature.",
-            "The attack interrupts the provoking creature's movement, occurring right before the creature leaves your reach.",
-            "Creatures don't provoke an opportunity attack when they teleport or when someone or something moves them without using their movement, action, or reaction."
+            "Spouštěč: nepřátelská bytost, kterou vidíš, opustí tvůj dosah.",
+            "Proveď jeden útok zblízka proti provokující bytosti.",
+            "Útok přeruší pohyb tvora a dojde k němu těsně předtím, než tvor opustí tvůj dosah.",
+            "Tvorové neprovokují příležitostný útok, když se teleportují nebo když je někdo nebo něco přesune, aniž by použili svůj pohyb, akci nebo reakci."
         ]
     },
     {

@@ -9,8 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Knihy : "https://github.com/W1-SK/DnDWiki/tree/v4/content/Assets/Books", 
-      Video : "https://www.youtube.com/watch?v=oavMtUWDBTM",
-      Kolo : "https://w1-sk.github.io/DnDWiki/TahPomoc/Help.html"
+      Boj : "https://w1-sk.github.io/DnDWiki/TahPomoc/Help.html",
+      Kalednář : "https://app.fantasy-calendar.com/calendars/5005dcf15411157df7272ce2a8273953",
+      Video : "https://www.youtube.com/watch?v=oavMtUWDBTM"
     },
   }),
 }

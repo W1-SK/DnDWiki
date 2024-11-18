@@ -61,8 +61,8 @@ data_environment_vision = [
     {
         title: "Mimozrakové vnímání",
         icon: "one-eyed",
-        subtitle: "Perceive without sight",
-        description: "Perceive your surroundings without relying on sight, within a certain radius",
+        subtitle: "Vnímání bez zraku",
+        description: "Vnímání okolí bez použití zraku v určitém okruhu.",
         reference: "PHB, str. 183.",
         bullets: [
             "Tímto smyslem disponují tvorové bez očí, jako jsou například slizy, a tvorové s echolokací nebo zesílenými smysly, jako jsou netopýři a někteří draci."
@@ -71,8 +71,8 @@ data_environment_vision = [
     {
         title: "Vidění ve tmě",
         icon: "semi-closed-eye",
-        subtitle: "Limited vision in darkness",
-        description: "A creature with Darkvision can see better in the dark or low light conditions, within a certain radius",
+        subtitle: "Omezené vidění ve tmě",
+        description: "Tvor s viděním ve tmě nebo za špatného osvětlení vidí lépe v určitém okruhu.",
         reference: "PHB, strs. 183-184.",
         bullets: [
             "V určitém dosahu může tvor s viděním ve tmě <b>vidět jako by tma bylo šero</b>, takže oblasti tmy jsou pro tohoto tvora jen slabě zahalené.",
@@ -83,8 +83,8 @@ data_environment_vision = [
     {
         title: "Pravdivé vidění",
         icon: "eye-shield",
-        subtitle: "See in darkness",
-        description: "A creature with truesight can see everything in its true form, independent of the environment",
+        subtitle: "Vidění ve tmě",
+        description: "Tvor s pravdivým viděním vidí vše v pravé podobě, nezávisle na prostředí.",
         reference: "PHB, str. 184.",
         bullets: [
             "Tvor s pravdivým viděním vidí do určité vzdálenosti v normální i magické tmě, vidí neviditelné tvory a předměty, automaticky rozpozná zrakové iluze a uspěje v záchranných hodech proti nim a vnímá původní podobu měňavce nebo tvora, který je přeměněn magií.",

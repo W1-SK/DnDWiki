@@ -87,7 +87,7 @@ data_movement = [
         description: "Cena za přesun: 5ft za 5ft uskočených",
         reference: "PHB, str. 182.",
         bullets: [
-            "Přeskočíte počet stop až do výše vašeho <b>modifikátoru síly</b>, pokud se bezprostředně před skokem přesunete alespoň o 10 stop pěšky.",
+            "Přeskočíte počet stop až do výše vaší <b>síly</b>, pokud se bezprostředně před skokem přesunete alespoň o 10 stop pěšky.",
             "Při skoku do dálky ze stoje můžeš přeskočit pouze polovinu této vzdálenosti.",
             "Může vyžadovat ověření síly (atletika) SO 10, abyste překonali nízkou překážku (ne vyšší než čtvrtina vzdálenosti skoku). Při neúspěšném pokusu překážku zasáhneš.",
             "Může vyžadovat ověření obratnosti (akrobacie) SO 10, abyste přistáli na nohy v těžkém terénu. Při neúspěšném pokusu spadneš na zem."
