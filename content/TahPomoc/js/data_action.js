@@ -19,7 +19,7 @@ data_action = [
         subtitle: "Speciální útok zblízka",
         description: "Pokus o uchopení tvora nebo zápas s ním.",
         reference: "PHB, str. 195.",
-        bullets: [        
+        bullets: [
             "Akci <i>Útok</i> můžete použít ke speciálnímu útoku zblízka, k chvatu. Pokud jsi schopen provést více útoků akcí útok, tento útok nahrazuje jeden z nich.",
             "Cíl tvého chvatu nesmí být o více než jednu velikost větší než ty a musí být v tvém dosahu.",
             "Pomocí alespoň jedné volné ruky se pokusíš cíl chytit tak, že provedeš ověření síly (Atletika), proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
@@ -37,7 +37,20 @@ data_action = [
             "Cíl tvého strčení nesmí být o více než jednu velikost větší než ty a musí být v tvém dosahu.",
             "Provedeš ověření síly (Atletika), proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
             "Pokud ověření vyhraješ, buď cíl srazíš na kolena(<i>Ležící</i>), nebo ho od sebe odstrčíš na vzdálenost 5 stop."
-        ]   
+        ]
+    },
+    {
+        title: "Strčení na bok",
+        icon: "hand",
+        subtitle: "Speciální útok zblízka",
+        description: "Odstrčte tvora, abyste ho srazili na kolena nebo ho od sebe odstrčili.",
+        reference: "PHB, str. 195.",
+        bullets: [
+            "Pomocí akce <i>Útok</i> můžeš provést speciální útok zblízka a odstrčit tvora na bok. Pokud jsi schopen provést více útoků pomocí akce útok, tento útok nahrazuje jeden z nich.",
+            "Cíl tvého strčení nesmí být o více než jednu velikost větší než ty a musí být v tvém dosahu.",
+            "Provedeš ověření síly (Atletika) s nevýhodou, proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
+            "Pokud ověření vyhraješ, buď cíl srazíš na kolena(<i>Ležící</i>), nebo ho od sebe odstrčíš na vzdálenost 5 stop do boku."
+        ]
     },
     {
         title: "Seslání kouzla",
@@ -194,6 +207,47 @@ data_action = [
         reference: "PHB, str. 193.",
         bullets: [
             "Když popíšete akci, která není popsána jinde v pravidlech, DM vám řekne, zda je tato akce možná a jaký hod je třeba provést, abyste určili úspěch nebo neúspěch."
+        ]
+    },
+    {
+        title: "Odzbrojení",
+        icon: "sword-hilt",
+        subtitle: "Vyražení předmětu",
+        description: "Vyražení zbraně či jiného předmětu z úchopu cíle",
+        reference: "PHB, str. ...",
+        bullets: [
+            "Akci <i>Útok</i> můžete použít ke speciálnímu útoku zblízka, k odzbrojení. Pokud jsi schopen provést více útoků akcí útok, tento útok nahrazuje jeden z nich.",
+            "Pokud je cíl odzbrojení o jednu třídu velikosti větší než ty, tak si hází s výhodnou pokud je o třídu velikosti menší tak si hází s nevýhodou.",
+            "Pokud cíl drží předmět dvěma či více rukama, házíte si s nevýhodou.",
+            "Hodíte si na zásah, proti ověření síly (Atletika) nebo obratnosti (Akrobacie) cíle (cíl si vybere schopnost, kterou chce použít).",
+            "Pokud ověření vyhraješ, cíli bude vyražen předmět z ruky ale nezpůsobí žádné zranění ani jiný škodlivý účinek."
+        ]
+    },
+    {
+        title: "Prorážení",
+        icon: "bull-horns",
+        subtitle: "Projít skrz nepřátelského tvora",
+        description: "Pohnout se přes místo nepřátelského tvora, můžete se pokusit vynutit svou cestu silou a nepřátelského tvora prorazit.",
+        reference: "PHB, str. ...",
+        bullets: [
+            "Jako akci nebo bonusovou akci provedete ověření Síly (Atletiky), proti nepřítelově ověření Síly (Atletiky).",
+            "Pokud jste o jednu třídu velikosti větší než cíl, tak si házíte s výhodnou pokud jste o třídu velikosti menší tak si házíte s nevýhodou.",
+            "Při úspěchu se můžete posunout přes políčko nepřítele, ale pouze jednou v tomto tahu."
+        ]
+    },
+    {
+        title: "Vyšplhání na většího tvora",
+        icon: "inner-self",
+        subtitle: "Vyskočení na většího tvora",
+        description: "Alternativa k chvatu.",
+        reference: "PHB, str. ...",
+        bullets: [
+            "Akci <i>Útok</i> můžete použít ke speciálnímu útoku zblízka, k chvatu. Pokud jsi schopen provést více útoků akcí útok, tento útok nahrazuje jeden z nich.",
+            "Pomocí alespoň jedné volné ruky se pokusíš k cíli přichytit tak, že provedeš ověření síly (Atletika) nebo obratnosti (Akrobacie), proti ověření obratnosti (Akrobacie) cíle.",
+            "Pokud uspěješ, posuneš se na místo cíle a přilneš k jeho tělu.",
+            "Můžeš se hýbat v rámci místa většího tvora, přičemž se jedná o těžký terén.",
+            "Menší tvor má výhodu na útok proti cíli.",
+            "Na shození menšího tvora se porvede ověření Síly (Atletiky) většího tvora, proti ověření Síly (Atletiky) nebo Obratnosti (Akrobacie) menšího tvora (cíl si vybere schopnost, kterou chce použít)."
         ]
     }
 ]
